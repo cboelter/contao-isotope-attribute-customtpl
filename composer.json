@@ -27,7 +27,7 @@
     "php": ">=5.6",
     "contao/core": ">=3.5,<3.6-dev",
     "contao-community-alliance/composer-plugin": "~2",
-    "isotope/isotope-core": "~2.4",
+    "isotope/isotope-core": "~2.4"
   },
   "extra": {
     "contao": {
